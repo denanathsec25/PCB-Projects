@@ -1,0 +1,25 @@
+Net Status Report
+Filename     : E:\EcoGuard\PCB_Project\PCB.PcbDoc
+Date         : 03-07-2026
+Time         : 21:08:52
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +5, Signal Layers Only, 0mils
+    GND, Signal Layers Only, 0mils
+    Net*_1, Signal Layers Only, 502.056mils
+    Net*_2, Signal Layers Only, 502.056mils
+    Net*_3, Signal Layers Only, 502.056mils
+    Net*_4, Signal Layers Only, 502.056mils
+    Net*_5, Signal Layers Only, 502.056mils
+    Net7805_1, Signal Layers Only, 907.411mils
+    NetBAT?_1, Signal Layers Only, 471.213mils
+    NetD?_2, Signal Layers Only, 581.679mils
+    NetJ1_1, Signal Layers Only, 360.305mils
+    NetJ2_1, Signal Layers Only, 289.437mils
+    NetMQ135_4, Signal Layers Only, 1288.243mils
+    NetMQ136_3, Signal Layers Only, 1116.764mils
+    NetMQ136_4, Signal Layers Only, 1133.463mils
+    NetMQ137_3, Signal Layers Only, 1262.055mils
+    NetMQ137_4, Signal Layers Only, 1270.861mils
+count : 17
