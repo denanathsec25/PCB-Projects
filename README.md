@@ -1,10 +1,10 @@
 # PCB Design Portfolio
 
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_USERNAME/PCB-Design-Portfolio?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/PCB-Design-Portfolio?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/PCB-Design-Portfolio?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/YOUR_USERNAME/PCB-Design-Portfolio?style=for-the-badge)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/YOUR_USERNAME/PCB-Design-Portfolio?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/denanathsec25/PCB-Projects?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/denanathsec25/PCB-Projects?style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/denanathsec25/PCB-Projects?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/denanathsec25/PCB-Projects?style=for-the-badge)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/denanathsec25/PCB-Projects?style=for-the-badge)
 
 ---
 
